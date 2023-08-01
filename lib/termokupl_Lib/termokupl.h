@@ -8,7 +8,6 @@ typedef struct
     uint8_t csPin;
     uint8_t sckPin;
     uint8_t soPin;
-
 }termokupl_t;
 
 
